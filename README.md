@@ -8,7 +8,7 @@ I like to build my own stuff. For more information, visit [my website](https://u
 
 Only a few of my projects are public, either on my profile or on [exom-devs](https://github.com/exom-dev). Here are the most relevant ones:
 
-- [UnexomWid/**eryn**](https://github.com/UnexomWid/eryn) - native template engine for NodeJS, written in C++17 <a href="https://en.wikipedia.org/wiki/C%2B%2B17"><img align="right" src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=C%2B%2B" alt="C++ 17" /></a>
+- [UnexomWid/**eryn**](https://github.com/UnexomWid/eryn) - native template engine for NodeJS <a href="https://en.wikipedia.org/wiki/C%2B%2B17"><img align="right" src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=C%2B%2B" alt="C++ 17" /></a><a href="https://nodejs.org/api/n-api.html"><img align="right" src="https://img.shields.io/badge/N--API-3-339933?logo=Node.js&logoColor=FFFFFF" alt="N-API 3" /></a>
 
 - [UnexomWid/**BDP**](https://github.com/UnexomWid/BDP) - basic 64 bit packaging format for binary data <a href="https://en.wikipedia.org/wiki/C%2B%2B17"><img align="right" src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=C%2B%2B" alt="C++ 17" /></a>
 
