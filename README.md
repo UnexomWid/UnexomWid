@@ -2,7 +2,7 @@
 
 Techie, programmer. Member of the [Exom Developers](https://github.com/exom-dev).
 
-I like to build my own stuffFor more information, visit [my website](https://uw.exom.dev).
+I like to build my own stuff. For more information, visit [my website](https://uw.exom.dev).
 
 ### Projects
 
