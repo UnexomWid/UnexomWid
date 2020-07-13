@@ -1,16 +1,25 @@
-### Hi there 👋
+### About
 
-<!--
-**UnexomWid/UnexomWid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Techie, programmer. Member of the [Exom Developers](https://github.com/exom-dev).
 
-Here are some ideas to get you started:
+I like to build my own stuffFor more information, visit [my website](https://uw.exom.dev).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+Only a few of my projects are public, either on my profile or on [exom-devs](https://github.com/exom-dev). Here are the most relevant ones:
+
+- [UnexomWid/**eryn**](https://github.com/UnexomWid/eryn) - native template engine for NodeJS, written in C++17
+
+- [UnexomWid/**BDP**](https://github.com/UnexomWid/BDP) - basic 64 bit packaging format for binary data
+
+- [UnexomWid/**remem**](https://github.com/UnexomWid/remem) - memory allocation tracking via address mapping for C++17
+
+- [exom-dev/**risa**](https://github.com/exom-dev/risa) - embeddable modular scripting language, written in C99
+
+### Contact
+
+:globe_with_meridians: **Website:** [uw.exom.dev](https://uw.exom.dev)
+
+:e-mail: **E-Mail:** uw@exom.dev
+
+:lock: **OpenPGP Key ID:** [82BAC127](https://keys.openpgp.org/vks/v1/by-fingerprint/E323044C5430C7FFFCF2EFF272822BB582BAC127)
