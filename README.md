@@ -1,6 +1,6 @@
 ### About
 
-Techie, programmer. Member of the [Exom Developers](https://github.com/exom-dev).
+Programmer.
 
 I like to build my own stuff. For more information, visit [my website](https://uw.exom.dev).
 
